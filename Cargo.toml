@@ -1,0 +1,11 @@
+[package]
+name = "az-metrics"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+azure_core = "0.21.0"
+azure_identity = "0.21.0"
+azure_mgmt_resources = "0.21.0"
+rust_decimal = "1.36.0"
+rust_decimal_macros = "1.36.0"
